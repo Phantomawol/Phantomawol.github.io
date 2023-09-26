@@ -5,6 +5,8 @@ categories: [defcon]
 tag: [lhc]
 ---
 
+<img src = "/assets/LHC_Awol_no_BG.png">
+
 I want to apologize for taking so long to post this...hopefully, won't be too long before my next post.
 
 # Lonely Hackers Club
@@ -30,3 +32,4 @@ As of writing this blog, we have about 930 members with 50-60 active at any give
 I want to shout out the current admins who helped me and the past admins who have stepped down. I dedicate this blog post to you as I am not sure where this group would be today without all your help: H4r0ld - https://twitter.com/JonSelman, V3rbaal - https://twitter.com/v3rbaal, TechGirlMN - https://twitter.com/TechGirlMN, Sunstrid3r - https://twitter.com/sunstrid3r, Hamy - https://twitter.com/Hams3c, Alofoxx - (Unsure on Twitter sorry!), SethOps - https://twitter.com/swordofomen, c0ldbru - https://twitter.com/c0ldbru, Dean McCarten - https://twitter.com/2bitwannabe, J9 Fackque - https://twitter.com/Fackque99, LP Actual - https://twitter.com/last_person, Daruma - https://twitter.com/WanderingDaruma, LAZ - https://twitter.com/LZAntal, Miss Jackalope - https://twitter.com/djjackalope, NovSec (Unsure on Twitter sorry!), and Altezza - https://twitter.com/Altezza02
 
 In the famous words of Cowboy Bebop...
+<img src= "/assets/seeyouspacecowboy.png">
