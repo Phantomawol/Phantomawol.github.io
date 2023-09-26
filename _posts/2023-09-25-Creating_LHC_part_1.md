@@ -1,7 +1,9 @@
 ---
-title: Creating LHC Part 1
-date: 2023-09-25 20:20:00
-author: Awol
-categories: [lonelyhackersclub]
-tag: [lhc]
+title: Testing
+date: 2023-09-25 16:00:00
+categories: [test]
+tag: [test]
 ---
+# Test, I hope it doesn't break it again
+
+Test, test
