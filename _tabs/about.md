@@ -6,7 +6,7 @@ order: 4
 
 # Whoami - Awol
 
-I am currently a Information Security Analyst working the blue team side with a hybrid in Threat Hunting, SOC, and a splash of Red Team/Purple Team. 
+I am currently an Information Security Analyst working the blue team side with a hybrid in Threat Hunting, SOC, and a splash of Red Team/Purple Team. 
 
 ### Certifications: 
 * eJPT
