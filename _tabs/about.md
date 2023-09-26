@@ -16,6 +16,6 @@ I am currently a Information Security Analyst working the blue team side with a 
 ### Projects:
 * Creator of Lonely Hacker Club (LHC)
 
-TryHackMe: https://tryhackme.com/p/Tomwastaken
+**TryHackMe: https://tryhackme.com/p/Tomwastaken**
 <br>
-CTFTime (LHC Team): https://ctftime.org/team/92779
+**CTFTime (LHC Team): https://ctftime.org/team/92779**
