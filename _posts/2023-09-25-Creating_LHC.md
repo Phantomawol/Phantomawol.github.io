@@ -21,7 +21,7 @@ It all started pre-Defcon 25. This was going to be my first-ever hacking convent
 A user (whose real name I never got to know) went by Kat, reached out to me, and also stated it was their first Defcon. We had an idea to start a telegram chat for people who were first-time attendees or just wanted to meet up with like-minded people. Lonely Hackers Club was spawned. 
 
 At first, it started super slow, people would come and go after Defcon would attend. Kat ended up stepping away from LHC shortly after it was created, so I was left alone to figure out what we would become. Shortly after, I started meeting some super cool people who I then decided to make admins. (Sorry in advance if I forget any of the OG admins)
-The first admins who helped with some still helping today were: Win, H4r0ld, V3rbaal, Altezza, SapiTim, TechGirlMN, Sunstrid3r, Alofoxx, Hamy, & Bog
+The first admins who helped with some still helping today were: Win, H4r0ld, V3rbaal, Altezza, SapiTim, TechGirlMN, Sunstrid3r, Alofoxx, Hamy, Bog, & Keramas
 
 ### LHC today
 
