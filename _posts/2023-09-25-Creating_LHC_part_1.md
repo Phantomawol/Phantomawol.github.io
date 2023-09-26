@@ -5,9 +5,9 @@ author: Awol
 categories: [LonelyHackersClub]
 tag: [LHC]
 ---
-<img src = "/assets/LHC_Awol_no_BG.png">
 
-I want to apologize for taking so long to post this...hopefully won't be too long before my next post.
+
+I want to apologize for taking so long to post this...hopefully, won't be too long before my next post.
 
 # Lonely Hackers Club
 
@@ -25,11 +25,11 @@ The first admins who helped with some still helping today were: Win, H4r0ld, V3r
 
 ### LHC today
 
-As of writing this blog, we have about 930 members with 50-60 active at any given time! We are always willing to help anyone and also good to know that we officially have (had) a room at Defcon 31! (Huge thanks to SethOps!) We are hoping to get a room every year going forward, but this will be our "beta" run if you want to call it that. Mostly this year we are going to be a chill room mixed with Resume reviews, a name that noob, and more! Feel free to stop by to see all the fellow LHC members! We also have a meet-up every year, so the best details for that would be to join the telegram group.
-<br><br>
+As of writing this blog, we have about 930 members with 50-60 active at any given time! We are always willing to help anyone and also good to know that we officially have (had) a room at Defcon 31! (Huge thanks to SethOps!) We are hoping to get a room every year going forward, but this will be our "beta" run if you want to call it that. Mostly this year we were a chill room mixed with Resume reviews, a name that noob, and more! Hopefully you stopped by to see us and if not we will be back next year! We also have a meet-up every year, so the best details for that would be to join the telegram group.
+<br>
+<br>
 **Please let us know in the Telegram chat what you would like to see next year! We are open to suggestions and hopefully, Defcon will accommodate.**
 
 I want to shout out the current admins who helped me and the past admins who have stepped down. I dedicate this blog post to you as I am not sure where this group would be today without all your help: H4r0ld - https://twitter.com/JonSelman, V3rbaal - https://twitter.com/v3rbaal, TechGirlMN - https://twitter.com/TechGirlMN, Sunstrid3r - https://twitter.com/sunstrid3r, Hamy - https://twitter.com/Hams3c, Alofoxx - (Unsure on Twitter sorry!), SethOps - https://twitter.com/swordofomen, c0ldbru - https://twitter.com/c0ldbru, Dean McCarten - https://twitter.com/2bitwannabe, J9 Fackque - https://twitter.com/Fackque99, LP Actual - https://twitter.com/last_person, Daruma - https://twitter.com/WanderingDaruma, LAZ - https://twitter.com/LZAntal, Miss Jackalope - https://twitter.com/djjackalope, NovSec (Unsure on Twitter sorry!), and Altezza - https://twitter.com/Altezza02
 
 In the famous words of Cowboy Bebop...
-<img src= "/assets/seeyouspacecowboy.png">
